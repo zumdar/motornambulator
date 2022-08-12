@@ -17,6 +17,7 @@ custom footprints were made to make the pads larger for easier etching and solde
 # documentation
 
 [![Watch the video](https://img.youtube.com/vi/qF2Il0cjl8Y/hqdefault.jpg)](https://youtu.be/qF2Il0cjl8Y)
+VIDEO!
  
 ![](pics/pcb_sun.jpg)
 we etched the board on site at EW2022! 
