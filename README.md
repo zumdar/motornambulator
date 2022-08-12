@@ -30,3 +30,9 @@ part of the setup for the performance on 8/10/2022
 
 ![](pics/full_box.jpg)
 motor madness
+
+# TODO's
+
+- button debouncing -- lots of button glitches makes it so it doesnt always record
+- graphics displaying play and record buttons on pcb
+- use one microcontroller? get more outputs? 
