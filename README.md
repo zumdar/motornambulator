@@ -1,5 +1,7 @@
 # quadmotornambulator 
+
 ![](svgs%20and%20graphics/quadnam_small.jpg)
+
 a collaboration between [pin](http://paulapin.net/) and [zumdar](https://freakylamps.com/) at [Electric Wonderland 2022](https://www.electric-wonderland.eu/)
 
 motors are people too
